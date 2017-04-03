@@ -1,2 +1,2 @@
 # gallery-ing
-a minimalist react.js gallery app
+a minimalist react.js gallery app for ecommerce projects
