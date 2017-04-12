@@ -7,4 +7,4 @@ let Login = React.createClass({
   }
 });
 
-export default Login;  
+export default Login;
